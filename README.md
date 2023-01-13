@@ -1,43 +1,43 @@
-# ColegioUSB
+# School - USB
 
-Manual de usuario:
-En este archivo se documentará el funcionamiento del programa “Colegio USB”. Se hará un recorrido desde el inicio de sesión del programa, el registro de usuario y las funcionalidades del sistema. Hablando de la funcionalidad del sistema, su propósito principal es el manejo de reportes del colegio como el registro de estudiantes, empleados, materias, eventos, actividades.
+User's manual:
+This file will document the operation of the "USB College" program. It will go through the program login, user registration and system functionalities. Talking about the functionality of the system, its main purpose is the management of school reports such as the registration of students, employees, subjects, events, activities.
 
-Inicio de sesión:
-Esta es la primera interfaz del sistema, desde acá podemos ingresar al programa si ya tenemos un usuario registrado. Si no lo tenemos debemos ingresar a la opción de registro. 
+Login:
+This is the first interface of the system, from here we can enter the program if we already have a registered user. If we do not have it we must enter the registration option. 
 
-Registro de usuario:
-Si no tenemos un usuario debemos registrarnos, los datos requeridos son: Nombre, apellido, email, usuario y contraseña. Una vez ingresados estos datos se notificará al instante que el usuario fue creado con éxito. Ya creado podemos ingresar al programa.
+User registration:
+If we do not have a user we must register, the required data are: First name, last name, email, user and password. Once these data are entered it will be notified instantly that the user has been successfully created. Once created we can enter the program.
 
-Funcionalidades del sistema:
-Una vez el usuario fue registrado e iniciado sesión saldrá de la interfaz con las múltiples funcionalidades del sistema.
+System functionalities:
+Once the user was registered and logged in he/she will exit the interface with the multiple functionalities of the system.
  
-Registrar estudiantes:
-En esta funcionalidad podemos realizar el registro de un estudiante, requiriendo los siguientes datos: Número de identificación, nombre, edad, sexo, grado escolar y uniforme. 
+Register students:
+In this functionality we can perform the registration of a student, requiring the following data: ID number, name, age, gender, school grade and uniform. 
 
-Registro de empleados:
-En esta funcionalidad podemos realizar el registro de un empleado, requiriendo los siguientes datos: Número de identificación, rol, nombre, edad, sexo y salario. 
+Register employees:
+In this functionality we can perform the registration of an employee, requiring the following data: ID number, role, name, age, sex and salary. 
  
-Registro de materias:
-En esta funcionalidad podemos realizar el registro de una materia, requiriendo los siguientes datos: Número de identificación de la materia, nombre, Número de identificación del docente, grado y horario. 
+Registration of subjects:
+In this functionality we can perform the registration of a subject, requiring the following data: subject ID number, name, teacher ID number, grade and schedule. 
 
-Registrar eventos correspondientes a materias:
-En esta funcionalidad podemos registrar eventos a realizar en diferentes materias los a datos que se requieren son: Número de identificación del evento y el número de identificación de la materia.
+Register events corresponding to subjects:
+In this functionality we can register events to be performed in different subjects the to data required are: Event identification number and subject identification number.
  
-Registro de actividades:
-Esta funcionalidad corresponde al registro de actividades académicas de alguna materia en específico, los datos requeridos son: Número de identificación de la actividad, la actividad en específico, fecha e id de la materia.
+Registration of activities:
+This functionality corresponds to the registration of academic activities of a specific subject, the required data are: Identification number of the activity, the specific activity, date and id of the subject.
  
-Registro de eventos:
-Este registro de eventos se refiere a eventos de carácter cultural, los datos requeridos son: Número de identificación del evento, ubicación del evento, motivo del evento y su duración.
+Event registration:
+This event registration refers to events of a cultural nature, the required data are: Identification number of the event, location of the event, reason for the event and its duration.
  
-Registro de estudiantes en materias:
-Con esta funcionalidad podemos registrar un estudiante en alguna materia en específico, sus datos requeridos son: Numero de identificación de la materia y número de identificación del estudiante. 
+Registration of students in subjects:
+With this functionality we can register a student in a specific subject, the required data are: Subject ID number and student ID number. 
 
-Operadores:
-Son las diferentes órdenes que se le puede asignar al sistema.
+Operators:
+They are the different orders that can be assigned to the system.
 
-Operador crear:
-Este es el mensaje que se muestra cuando un estudiante fue creado éxito.
+Operator create:
+This is the message that is displayed when a student was successfully created.
  
-Operador visualizar:
-Se muestra la información de cada uno de los estudiantes.
+Display operator:
+The information of each student is displayed.
